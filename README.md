@@ -1,7 +1,5 @@
 # Number Guessing Game GUI
 
-![Number Guessing Game](https://i.imgur.com/dw7E6E5.png)
-
 ## Description
 This is a Number Guessing Game GUI built with Python's tkinter library. The game generates a random number between 1 and 100, and the player has to guess the number within a limited number of attempts based on the chosen difficulty level.
 
@@ -38,4 +36,3 @@ This is a Number Guessing Game GUI built with Python's tkinter library. The game
 - The ASCII art logo is generated using the `art` library.
 - Created by Deric C. San Andres
 
-![Trademark](https://i.imgur.com/K70bTLs.png)
